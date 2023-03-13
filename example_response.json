@@ -1,0 +1,843 @@
+{
+    status: 'OK',
+    request_id: '6b1ae121-80ae-434a-99ee-5d7bfde50470',
+    parameters: { query: 'python developer in germany', page: 1, num_pages: 1 },
+    data: [
+      {
+        employer_name: 'Cloudflight Germany GmbH',
+        employer_logo: null,
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'HackerX',
+        job_id: '1aC2az5kQxEAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Python Developer (m/f/x)',
+        job_apply_link: 'https://hackerx.org/job/cloudflight-germany-gmbh-full-time-python-developer-m-f-x/',
+        job_description: 'As a Python Developer, you will…\n' +
+          '• work in projects with agile working methods (such as Scrum) and be a part of an awesome team\n' +
+          '• work with OOP, especially in the Python environment\n' +
+          '• shape the Python tech stack, implement backend code and data pipelines for machine learning services\n' +
+          '• design robust, scalable, and high-performance solutions\n' +
+          '• ensure software quality (typing, testing, logging, static code analysis, dependency management etc.)\n' +
+          '• develop yourself within a wide variety of customized software projects\n' +
+          '• share your knowledge across project teams\n' +
+          '• constantly develop your coding and communication skills in a high-performance and diverse team\n' +
+          '\n' +
+          'You will enjoy this job if you…\n' +
+          '• always wanted to be part of an agile distributed team using Scrum\n' +
+          '• are eager to develop further your logical and analytical skills\n' +
+          '• are familiar with Containerization (Docker) and Cloud-Computing, preferably AWS, Google Cloud or Azure\n' +
+          '• are eager to improve your existing Python skills and have already used AMQP, MongoDB, Elasticsearch, Swagger/OpenAPI, FastAPI, pydantic, pytest\n' +
+          '• are familiar with the data science ecosystem (ideally)\n' +
+          '\n' +
+          'As Cloudflight employee you will get…\n' +
+          '• the opportunity to learn new things on the job and besides, that’s why we have a learning balance available\n' +
+          '• the freedom to choose if you want to work from home or in the office (or even from another EU country for a couple of weeks per year)\n' +
+          '• smart colleagues to share and exchange knowledge with\n' +
+          '• a lot of autonomy and the chance to grow\n' +
+          '• many occassions to spend quality time with our colleagues during social events – also across multi-national locations\n' +
+          '• a feedback culture to discuss new ideas and shape an organically and rapidly growing business\n' +
+          '\n' +
+          'Diversity & inclusion\n' +
+          '\n' +
+          'We are an equal opportunity employer. We strive to create an inclusive environment where everyone can thrive regardless of their background and circumstances. All applicants receive equal opportunity regardless of age, gender identity or expression, language, disability, ethnicity, national origin, religion, or sexual orientation.',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1651043655,
+        job_posted_at_datetime_utc: '2022-04-27T07:14:15.000Z',
+        job_city: 'Köln',
+        job_state: 'NRW',
+        job_country: 'DE',
+        job_latitude: 50.93753,
+        job_longitude: 6.9602785,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=1aC2az5kQxEAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: null,
+        job_offer_expiration_timestamp: null,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: null
+      },
+      {
+        employer_name: 'Entrix Energy',
+        employer_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpE2IHstBkMaUrKbi7_x-vrXw7MLkkNOTga4t&s=0',
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'Greenhouse',
+        job_id: 'OOVmozcgIaMAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Senior Python Software Developer (d/f/m) - Munich, Germany',
+        job_apply_link: 'https://boards.greenhouse.io/entrix/jobs/4080743101',
+        job_description: 'We are on the mission of enabling the energy transition. Energy Battery Storage Systems are a key element of the future energy infrastructure. They play an essential role in managing the volatility of renewables by providing the energy system with the much-needed flexibility.\n' +
+          '\n' +
+          'With our AI-powered fully automated optimization and trading platform for large-scale battery storage, we ensure that energy is stored when it is abundant and released into the grid when it is needed. At the same time, by actively trading electricity, we counteract strong price fluctuations that green energies entail. Figuring out how storage provides the best value to the electricity grid and the highest returns to asset owners is how we accelerate the transition to a clean energy future.\n' +
+          '\n' +
+          'Join us on our journey: To drive the intelligent and sustainable energy future, we need you! Take an active role in shaping our optimization and trading platform for grid-scale battery storage as a Senior Python Software Developer (d/f/m) by building our optimization platform end-to-end, implementing our algorithms or onboarding and mentoring your colleagues.\n' +
+          '\n' +
+          'Short Facts\n' +
+          '• Location: Munich, Germany\n' +
+          '• Department: Engineering\n' +
+          '• Employment Type: Full-Time\n' +
+          '• Our company values: Industry Leadership, Ownership, Diversity and Sustainability\n' +
+          '\n' +
+          'Our Tech Stack\n' +
+          '• Cloud Stack: AWS\n' +
+          '• Serverless Architecture: Lambda, SNS, SQS, API Gateway, ECS, EventBridge\n' +
+          '• Data Storage & Processing: DynamoDB, S3, TimeStream, Glue, Athena\n' +
+          '• Infrastructure & CI/CD: CDK, Docker, GitHub, CodePipeline, CodeBuild, Node.js\n' +
+          '• Programming Languages: Python, JavaScript, TypeScript\n' +
+          '\n' +
+          'Your Responsibilities\n' +
+          '• Build our optimization platform end-to-end: Across dimensions such as data ingestion and processing, optimization logic implementation, battery control, automated power trading\n' +
+          '• Implementation of our optimization and trading algorithms: Focus on immediate go-lives as well as strategic, long-term focussed advancement of our platform\n' +
+          '• Maintain and improve our tech stack: Develop environments and build infrastructure, from how services are developed and tested, to how they are built and integrated, to how they are monitored\n' +
+          '• Cross-functional work: Especially with data scientists to support them in the implementation of our optimization logic, automated trading execution, and battery control\n' +
+          '• Mentoring and Coordination: Define and foster engineering best practices and spend time teaching engineers and data scientists on how to use our tools\n' +
+          '• Support of your colleagues: You will support your colleagues during their onboarding, daily operations and strategic tasks\n' +
+          '\n' +
+          'Your Profile\n' +
+          '\n' +
+          'Mandatory requirements:\n' +
+          '• 5+ years experience in Backend Development\n' +
+          '• 2-3 years experience with Python including object-oriented design\n' +
+          '• 2+ years experience in onboarding, mentoring and coaching colleagues in junior positions\n' +
+          '• Experience working cross-functionally, especially with Product and Data Science teams\n' +
+          '• Team player to effectively bring across complex ideas and concepts with an ability to work on solutions individually\n' +
+          '• Experience and desire to work in a dynamic, fast-paced environment\n' +
+          '• Strategic and analytical thinking\n' +
+          '• Full business proficiency in English\n' +
+          '\n' +
+          'Skills to Set You Apart:\n' +
+          '• Public cloud experience\n' +
+          '• Familiarity with AWS cloud platform, and services like Lambda, DynamoDb, ApiGW\n' +
+          '• Energy industry experience\n' +
+          '\n' +
+          'At Entrix, we are committed to diversity - of backgrounds and experiences. You don’t need 100% of the preferred qualifications to add incredible value to our team. If you’re passionate about what you could accomplish here, we’d love to hear from you.\n' +
+          '\n' +
+          'Your Benefits\n' +
+          '• Competitive Compensation Package: Including salary, benefits and options\n' +
+          '• Professional Development: Annual development budget of 3,000 € for coachings, trainings, books, etc.\n' +
+          '• Health & Sport Subsidy: Company subsidised sports facilities membership\n' +
+          '• Public Transportation Subsidy: Monthly subsidy to your public transport ticket\n' +
+          '• Lunch/Dinner Allowance Vouchers: Allowance for meals on working days as digital meal vouchers\n' +
+          '• Work Equipment: Mac Book or Windows Laptop, iPhone (also for private use) and ergonomic workplace\n' +
+          '• Regular Team Events: Knowledge Sessions, Afterwork, Sports, Offsites, Halloween, Pride Month, etc.\n' +
+          '• Flexible Work Setup: An office at the heart of Munich and possibility to work from home\n' +
+          '\n' +
+          'Contact\n' +
+          '\n' +
+          'Your contact person is Kristina Kilian (People & Culture Manager).\n' +
+          '\n' +
+          'If you have any questions, feel free to send us an email to talent@entrixenergy.com\n' +
+          '\n' +
+          'We are looking forward to receiving your application!',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1663545600,
+        job_posted_at_datetime_utc: '2022-09-19T00:00:00.000Z',
+        job_city: 'München',
+        job_state: 'BY',
+        job_country: 'DE',
+        job_latitude: 48.135124,
+        job_longitude: 11.581981,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=OOVmozcgIaMAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: null,
+        job_offer_expiration_timestamp: null,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: 'Senior'
+      },
+      {
+        employer_name: 'VAV Bilisim',
+        employer_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMvm6gxxslxj4guugEX-BH636UpeA2wlkN99h&s=0',
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'JOIN',
+        job_id: 'CJZJHzqS_MMAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'SENIOR PYTHON DEVELOPER GERMANY-BERLIN',
+        job_apply_link: 'https://join.com/companies/vavbilisim/7415487-senior-python-developer-germany-berlin',
+        job_description: 'For one of our partners in Europe, we are actively seeking the following position for the extension of operations. This role is based in Germany and it is a hybrid full-time role.\n' +
+          '\n' +
+          'Tasks\n' +
+          '\n' +
+          'Duties and Responsibilities\n' +
+          '\n' +
+          'The ideal Backend Developer is self-motivated, has a hands-on attitude to work, loves coding, is passionate about their work and their teams work and wants to continuously progress their skill set. They must be comfortable working in a virtual work environment with resources spread across the globe who predominantly work from home. One day is usually not exactly the same as the next, so being flexible and nimble will be a huge benefit. If you recognise yourself in the description above, we are convinced you’ll love being part of our team.\n' +
+          '\n' +
+          'During the first quarter/half year there will be a need to work on many integrations/APIs\n' +
+          '\n' +
+          ' Build and scale high-performance backend systems, primarily using Python programming language and ecosystem\n' +
+          '\n' +
+          ' Troubleshoot issues in and improve functionality of existing systems\n' +
+          '\n' +
+          ' Integrate user-facing elements developed by mobile and web teams. Work with 3rd party data sources and APIs (systems integration)\n' +
+          '\n' +
+          ' Embed security and data protection\n' +
+          '\n' +
+          ' Actively collaborate with a cross-functional team working with product owners, UI/UX designers, backend developers, app developers and QA at various stages of the development process.\n' +
+          '\n' +
+          ' Develop appropriate tests to support code and ensure test automation and code quality and security\n' +
+          '\n' +
+          ' Conduct unit testing on your code and conduct code reviews.\n' +
+          '\n' +
+          ' Based on the project needs and end goals, proactively suggest improvements to architecture and technologies for maximising development efficiency\n' +
+          '\n' +
+          ' Mentor and coach other backend developers within the team\n' +
+          '\n' +
+          ' You will also be expected to keep your skills up to date by following advancements in the field and researching new and innovative technologies and techniques.\n' +
+          '\n' +
+          'Team structure and job organization\n' +
+          '\n' +
+          'Cros functional/interdisciplinary team with – Scrum Master, Product Owner, Developers, QA, UI/UX specialist (if needed)\n' +
+          '\n' +
+          'IT Stack\n' +
+          '\n' +
+          'Python, Open APIs, Jason rest, React, TypeScript, Docker, Kubernetes, AWS, Ansible, Selenium, CI/CD, Gitlab, Microservices,\n' +
+          '\n' +
+          'How will testing be realized\n' +
+          '\n' +
+          'We have QA specialists, but unit-tests are done by developers.\n' +
+          '\n' +
+          'Development/Maintenence\n' +
+          '\n' +
+          'Development – 100%\n' +
+          '\n' +
+          'The methodology by which work is organized (Agile, Scrum, KANBAN, Waterfall)\n' +
+          '\n' +
+          'Scrum, Agile\n' +
+          '\n' +
+          'Basics (workplace, working hours, paid holidays, paid sick leave)\n' +
+          '\n' +
+          '40 h/week – hybrid (2/3 days on-site and 2/3 days home office)\n' +
+          '\n' +
+          'Requirements\n' +
+          '\n' +
+          'Work experience:\n' +
+          '\n' +
+          ' Minimum 5 years of software development experience, at least 3 of which are hands on Python coding\n' +
+          '\n' +
+          ' Solid knowledge of Python web frameworks (Flask, Django, FastAPI or such)\n' +
+          '\n' +
+          ' In-depth knowledge of modern software design patterns\n' +
+          '\n' +
+          ' Ability to design elegant and efficient JSON REST APIs for given use cases (using OpenAPI standard and toolchain)\n' +
+          '\n' +
+          ' Good understanding of (and significant experience in) concurrent and parallel computing, asynchronicity, distributed computing patterns and principles\n' +
+          '\n' +
+          ' Solid knowledge of common algorithms, data structures, OOP (patterns and specific python implementations)\n' +
+          '\n' +
+          ' Understanding of CI/CD development practice and tools, experience writing Integration and Unit tests in Python.\n' +
+          '\n' +
+          ' Combination of good coding skills, end to end thinking and problem solving approach and track record of standalone delivering bigger chunks of work\n' +
+          '\n' +
+          ' Good knowledge of Agile principles and experience with some popular issue tracking tool (for example Jira)\n' +
+          '\n' +
+          ' Ability to communicate effectively to a variety of audiences including both technical and non-technical stakeholders.\n' +
+          '\n' +
+          'Benefits\n' +
+          '\n' +
+          'Relocation\n' +
+          '\n' +
+          'Priority will be local candidates (Berlin), but ready to consider candidates from other countries, too. There will be offices in Franc (Nica) and Spain (Barcelona).\n' +
+          '\n' +
+          'Level of languages\n' +
+          '\n' +
+          'English – fluent (~C1)\n' +
+          '\n' +
+          'Monetary:\n' +
+          '\n' +
+          'Competitive salary\n' +
+          '\n' +
+          'Stock option scheme\n' +
+          '\n' +
+          'Holiday trading\n' +
+          '\n' +
+          'Referral system\n' +
+          '\n' +
+          'Discounted travel Pension\n' +
+          '\n' +
+          'Parental leave\n' +
+          '\n' +
+          'Engagement:\n' +
+          '\n' +
+          'Top-tier offices and equipment\n' +
+          '\n' +
+          'After work events and dinners\n' +
+          '\n' +
+          'Flexible hours\n' +
+          '\n' +
+          'Company offsites\n' +
+          '\n' +
+          'Work from other Snowfall locations\n' +
+          '\n' +
+          '100% sick pay\n' +
+          '\n' +
+          'Personal:\n' +
+          '\n' +
+          'Perk pool\n' +
+          '\n' +
+          'Paid subscriptions\n' +
+          '\n' +
+          'Flexible public holidays\n' +
+          '\n' +
+          'Annual leave\n' +
+          '\n' +
+          'Relocation assistance\n' +
+          '\n' +
+          'Health insurance\n' +
+          '\n' +
+          'Additional Information:\n' +
+          '\n' +
+          '● The company looks for the first specialists in several offices.\n' +
+          '\n' +
+          '● Great opportunity to influence the development of the product\n' +
+          '\n' +
+          '● Opportunity to work with great professionals in an international team\n' +
+          '\n' +
+          'Relocation package (consultations, aeroplane ticket, help with finding an apartment, company provides first accommodation, support regarding relocation with family)\n' +
+          '\n' +
+          'Relocation assistance available for candidate & dependants/spouse/partner. Consultation about the documents needed.\n' +
+          '\n' +
+          'Flights for family, including luggage (30kg for one person), all the paperwork is covered, 30 days apartment, help with finding a permanent apartment.\n' +
+          '\n' +
+          'Conferences, seminars, certificates',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1644429051,
+        job_posted_at_datetime_utc: '2022-02-09T17:50:51.000Z',
+        job_city: 'Berlin',
+        job_state: 'BE',
+        job_country: 'DE',
+        job_latitude: 52.520008,
+        job_longitude: 13.404954,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=CJZJHzqS_MMAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: null,
+        job_offer_expiration_timestamp: null,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: 'Senior'
+      },
+      {
+        employer_name: 'Delicious Data GmbH',
+        employer_logo: null,
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'Learn4Good.com',
+        job_id: '5n3iqG0ps-0AAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Senior Python Developer',
+        job_apply_link: 'https://www.learn4good.com/jobs/munchen/germany/software_development/2167233340/e/',
+        job_description: 'Position: Senior Python Developer (m/f/d)\n' +
+          '\n' +
+          'As part of our tech team, you will build software to help our customers combat one of the biggest contributors to global warming: food waste.\n' +
+          '\n' +
+          'With this goal in mind, you will build and expand our predictive analytics platform which is already changing the way large food service providers manage their operations.\n' +
+          '\n' +
+          'You will work with a tightly knit team of talented developers in the fields of machine learning, backend and frontend development.\n' +
+          '\n' +
+          'We offer you a visionary, innovative environment and give you the support and tools you need to succeed. In our fast growing team there is plenty of room for personal development!\n' +
+          '\n' +
+          'Are you ready to build Delicious Data with us and change the world for the better? We are looking forward to getting to know you!\n' +
+          '\n' +
+          'Tasks\n' +
+          '\n' +
+          "As a Python Developer you're part of the Django backend team that lays the foundation to our solution:\n" +
+          "We interact with different kinds of data sources and sinks, such as enterprise resource planning (ERP) and point-of-sales (POS) systems. That's why data integration is critical to our mission-success and your experience and ideas will enable us to expand our customer base quickly while continuously expanding our feature set.\n" +
+          '\n' +
+          'At Delicious Data you will\n' +
+          "• Enjoy working in a tightly knit team to build a data driven solution that positively impacts our planet's future\n" +
+          '• Enable our machine learning developers by providing data from different sources which are required to train, evaluate and deploy ML/DL models\n' +
+          '• Exchange code reviews with our experienced software developers\n' +
+          '• Work on our backend with the goal of improving the performance of our stack\n' +
+          '\n' +
+          'Requirements\n' +
+          '• You have passion for writing software with emphasis on quality, testability and automation\n' +
+          '• You have several years of experience of backend development, preferably using Python\n' +
+          '• You have experience with:\n' +
+          'Linux administration, Docker, Ansible, Git\n' +
+          '• Preferred qualifications:\n' +
+          'Pandas, Celery, Django Channels, Django REST Framework, Redis, Nginx, Git Lab CI, PostgreSQL\n' +
+          '• You can speak English at a C1 level\n' +
+          '• We’re in this together.\n' +
+          '\n' +
+          'You are an honest, trustworthy person that communicates openly\n' +
+          '\n' +
+          'Benefits\n' +
+          '• Room for creative solutions and personal initiative\n' +
+          '• Experience ownership in our low hierarchy organization\n' +
+          '• Work with the hardware of your choice\n' +
+          '• We offer you a competitive compensation package (salary, benefits and virtual shares)\n' +
+          '• Use your annual development budget of one thousand euros for attending conferences or courses, buying books, getting a coach etc\n' +
+          '• We pay for your public transportation costs or an e-bike\n' +
+          '\n' +
+          'We are looking forward to getting to know you!',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1678492800,
+        job_posted_at_datetime_utc: '2023-03-11T00:00:00.000Z',
+        job_city: 'München',
+        job_state: 'BY',
+        job_country: 'DE',
+        job_latitude: 48.135124,
+        job_longitude: 11.581981,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=5n3iqG0ps-0AAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: '2023-09-10T00:00:00.000Z',
+        job_offer_expiration_timestamp: 1694304000,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: 'Senior'
+      },
+      {
+        employer_name: 'Align',
+        employer_logo: 'http://www.aligntech.com/img/logo-aligntech.png',
+        employer_website: 'http://www.aligntech.com',
+        employer_company_type: 'Manufacturing',
+        job_publisher: 'Align Technology Careers',
+        job_id: 'CxZMLzjhdBQAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Senior Python developer (m/f/d)',
+        job_apply_link: 'https://jobs.aligntech.com/jobs/34961?lang=en-us',
+        job_description: 'Join a team that is changing millions of lives.\n' +
+          '\n' +
+          'Transforming smiles, changing lives\n' +
+          '\n' +
+          ' \n' +
+          '\n' +
+          'At Align Technology, we believe a great smile can transform a person’s life, so we create technology that gives people the confidence to take on whatever’s next. We revolutionized the orthodontic industry with the introduction of the Invisalign system, and we have never lost sight of that spirit of innovation. Our diverse and collaborative teams are constantly pushing the boundaries of what’s possible.\n' +
+          '\n' +
+          ' \n' +
+          '\n' +
+          'Ready to join us? \n' +
+          '\n' +
+          'About this opportunity\n' +
+          '\n' +
+          'As a Senior Python developer, you will have an exciting opportunity to contribute to Diagnostics as a Service on the Align Digital Platform. The vision for Diagnostics as a Service is to acquire imaging data and develop ML models that provide analysis of clinical conditions in support of overall Oral Health. The key stakeholders include patients, general dentists, orthodontists, dental lab technicians, dental service organizations, universities, and public hospitals. You will work with teams of designers, machine learning engineers, data scientists, marketing managers, software engineers, medical domain experts, and others to build impactful Diagnostics AI products.\n' +
+          '\n' +
+          'In this role, you will…\n' +
+          '• You build powerful APIs in Python using Django for manipulating and accessing data.\n' +
+          '• You model data for new use cases and enhance existing data structures.\n' +
+          '• You find and integrate solutions to extend the functionality of the system.\n' +
+          '• You create and maintain unit tests in Python using the unittest / pytest framework.\n' +
+          '• You can extend the backend architecture with new modules / microservices.\n' +
+          '• You are interested in contributing to the front-end with code reviews and / or small changes.\n' +
+          '• You collaborate with a fully cross-functional team and work closely together with software/machine learning engineers, product designers, and medical experts.\n' +
+          '\n' +
+          'In this role, you’ll need …\n' +
+          '• You have an excellent understanding of API design and an eye for efficient database usage.\n' +
+          '• You write maintainable, extensible, testable Python code and are familiar with Django and Django-rest-framework.\n' +
+          '• You have some familiarity with TypeScript / JavaScript and can contribute minor changes to a React code base.\n' +
+          '• You estimate the complexity of tasks to work iteratively to approach a goal step-by-step.\n' +
+          '• You are self-confident and open-minded and see yourself as a team player toward customers and colleagues.\n' +
+          '• You are fluent in English and can express yourself well in writing.\n' +
+          "• (Nice to have) You're familiar with PostgreSQL and/or Swagger.\n" +
+          '\n' +
+          'Sound like a good fit?   \n' +
+          '\n' +
+          ' \n' +
+          '\n' +
+          'Great! Click the "Apply" link to let us know you are interested. Not the right fit? Don’t worry, Align is quickly growing so we are creating more opportunities to expand our Align family. Please consider joining our Talent Network to receive notifications about future jobs or sharing this opportunity with others in your network.    \n' +
+          '\n' +
+          ' \n' +
+          '\n' +
+          'About Align  \n' +
+          '\n' +
+          '  \n' +
+          '\n' +
+          'Align Technology is a publicly traded medical device company that is transforming smiles and changing lives. Our global team of talented employees develop innovative technology, tools and treatment options to help dental professionals worldwide achieve the clinical results they expect. Our digital ecosystem combines the power of technology to create beautiful smiles through the integration of AI and machine learning, digital imaging and visualization, biomechanics and material science to develop the Invisalign system, the most advanced clear aligner system in the world; iTero Intraoral Scanners and OrthoCAD digital services. Did you know? Align is the world’s largest manufacturer of custom 3D-printed materials.   \n' +
+          '\n' +
+          '  \n' +
+          '\n' +
+          'By joining Align, you will be part of a global, fast-growing company in one of the most dynamic industries. Great people, innovative technologies, and meaningful work – these are just some of the things employees say make Align Technology a great place to work.   \n' +
+          '\n' +
+          '  \n' +
+          '\n' +
+          'We respect your privacy. Please review our Applicant Privacy Policies for additional information.  \n' +
+          '\n' +
+          ' \n' +
+          '\n' +
+          'Global Diversity Statement:\n' +
+          '\n' +
+          'At Align, we believe in the power of a smile, and we know that every smile is as unique as our employees. As we grow, we will continue building a workforce of diverse cultural backgrounds and life experiences and fostering a culture of open-mindedness and compassion for all our employees. We live our company values by promoting healthy people and healthy communities. All with the intent of changing millions of lives, one unique smile at a time.\n' +
+          '\n' +
+          'Equal Opportunity Statement\n' +
+          '\n' +
+          'It is our policy to provide equal employment opportunity in all of our employment practices without regard to race, color, religion, sex, national origin, ancestry, marital status, protected veteran status, age, individuals with disabilities, sexual orientation or gender identity or expression or any other legally protected category. Applicants for positions with Align must be legally authorized to work in the country which they are applying for and verification of employment eligibility will be required as a condition of hire.\n' +
+          '\n' +
+          '#LI-AL2\n' +
+          '#LI-Hybrid',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1677156540,
+        job_posted_at_datetime_utc: '2023-02-23T12:49:00.000Z',
+        job_city: 'Berlin',
+        job_state: 'BE',
+        job_country: 'DE',
+        job_latitude: 52.520008,
+        job_longitude: 13.404954,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=CxZMLzjhdBQAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: '2024-03-10T19:28:22.000Z',
+        job_offer_expiration_timestamp: 1710098902,
+        job_required_experience: [Object],
+        job_required_skills: [Array],
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: 'Senior'
+      },
+      {
+        employer_name: 'Moyyn',
+        employer_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSJQL8P6gkmvaSP4irqzVdoWymQj14DPH7pjh&s=0',
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'GermanTechJobs',
+        job_id: 'FGKj7FI5tqMAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Developer (Python/C++/Javascript) – KD21_1   ',
+        job_apply_link: 'https://germantechjobs.de/en/jobs/Moyyn-Developer-PythonCJavascript--KD211',
+        job_description: 'Developer (Python/C++/Javascript) – KD21_1    Salary: 40000 - 60000 EUR per year\n' +
+          '\n' +
+          'At Moyyn we are looking for a Python engineer!\n' +
+          '\n' +
+          '  ️ Our tech stack:\n' +
+          'C++, Python, JavaScript\n' +
+          '\n' +
+          '   Rquirements:\n' +
+          '– You are an experienced developer (2-5 years)\n' +
+          '– You have excellent python skills. You are proficient in C++ and Javascript\n' +
+          '– You are a Linux user. The entire code runs on a specially equipped computer.\n' +
+          '– You are willing to continue learning and to think new ways.\n' +
+          '\n' +
+          '  ‍    ‍   Your responsibilities are:\n' +
+          '– Work on and develop a completely new product disrupting the food industry\n' +
+          '– Design a suitable backend and prepare the environment for the frontend using the latest tools.\n' +
+          '– Together with the team, find the best solutions to avoid problems along the way.\n' +
+          '\n' +
+          'View this job and over 500 other transparent jobs with salaries (      ) & tech stacks (  ️) on GermanTechJobs\n' +
+          '\n' +
+          'Category: Python Developer / Engineer\n' +
+          'Location address: -, Leipzig, Germany\n' +
+          '\n' +
+          'Salary: 40000 - 60000 EUR per year\n' +
+          '\n' +
+          'Benefits & perks that we offer:\n' +
+          '40-hour work week, Home office / Remote 1 day per week, Startup culture\n' +
+          '\n' +
+          'Moyyn - More about us and the role:\n' +
+          'We are looking for a ‘Developer (m/w/d)’ for our client in Leipzig, Germany. The client is a fast growing startup in the robotics domain, revolutionizing the food industry.\n' +
+          '– Fair salary (40k – 60k€, negotiable based on experience)\n' +
+          '– Possibility to obtain stakes in the company\n' +
+          '– Flexible working time and location\n' +
+          '– Support in finding a new favorite place in Leipzig, as well as in organizational matters.\n' +
+          '– You will work in a young, dynamic team with a start-up spirit.\n' +
+          '– Thanks to flat hierarchies, you can always contribute your ideas and develop professionally and personally.\n' +
+          '– Your future job is in the heart of Leipzig\n' +
+          '– You will work with the latest technologies and programs such as: Cloud computing, Robot Operating System, Computer vision, 3D cameras, Raspberry Pi’s, AI\n' +
+          '\n' +
+          'Are you looking for Python jobs in Leipzig?',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1678458311,
+        job_posted_at_datetime_utc: '2023-03-10T14:25:11.000Z',
+        job_city: 'Leipzig',
+        job_state: 'SN',
+        job_country: 'DE',
+        job_latitude: 51.339695,
+        job_longitude: 12.373075,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=FGKj7FI5tqMAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: '2023-05-23T19:03:29.000Z',
+        job_offer_expiration_timestamp: 1684868609,
+        job_required_experience: [Object],
+        job_required_skills: [Array],
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: 40000,
+        job_max_salary: 60000,
+        job_salary_currency: 'EUR',
+        job_salary_period: 'YEAR',
+        job_highlights: {},
+        job_job_title: null
+      },
+      {
+        employer_name: 'Madison Bridge',
+        employer_logo: null,
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'Madison Bridge',
+        job_id: 'gGnnry5VFOAAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Python Developer - Java, C++, Go, Linux - €DOE - Berlin, Germany',
+        job_apply_link: 'https://madison-bridge.com/jobs/job/germany-berlin/python-developer-java-c%2B%2B-go-linux-%E2%82%ACdoe-berlin-germany/2084495',
+        job_description: 'Python Developer - Java, C++, Go, Linux - €DOE - Berlin, Germany',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1634601600,
+        job_posted_at_datetime_utc: '2021-10-19T00:00:00.000Z',
+        job_city: 'Berlin',
+        job_state: 'BE',
+        job_country: 'DE',
+        job_latitude: 52.520008,
+        job_longitude: 13.404954,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=gGnnry5VFOAAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: '2121-10-19T00:00:00.000Z',
+        job_offer_expiration_timestamp: 4790275200,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: 70000,
+        job_max_salary: 70000,
+        job_salary_currency: 'EUR',
+        job_salary_period: 'YEAR',
+        job_highlights: {},
+        job_job_title: null
+      },
+      {
+        employer_name: 'Python Web Developer (m/f/d)',
+        employer_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfh09s9SiYNTh2uAKQlwWacYye3pfD7Ksz28NG&s=0',
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'Transparent Hiring',
+        job_id: 'YtUaBYWDnAIAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: 'Python Web Developer (m/f/d)',
+        job_apply_link: 'https://www.transparent-hiring.com/jobs/python-web-developer-munich/',
+        job_description: 'Our partner, a successful company in the Internet Publishing sector, is looking for a Python Web Developer (m/f/d) to make the work of their colleagues more efficient and comfortable by building software tools for internal use in all units of the company. This is a full-time permanent position onsite in Munich, Germany (partial work from home is possible).\n' +
+          '\n' +
+          'About the company:\n' +
+          '• International teams with people from 20+ different countries\n' +
+          '• We follow agile methodologies and continuously ship quality code to production\n' +
+          '• A start-up culture combined with the security of an established IT company\n' +
+          '• State-of-the-art python tech stack\n' +
+          '\n' +
+          'Your responsibilities:\n' +
+          '• Conception, further development and maintenance of different components of the tool suite\n' +
+          '• Front end, back end, databases and the infrastructure for deployment and operation\n' +
+          '• Knowing and understanding the business domains of internal customers\n' +
+          '• Living Python best practices and further establishing them in the team\n' +
+          '\n' +
+          'Required qualifications:\n' +
+          '• At least a Bachelor’s degree, preferably in an information technology field\n' +
+          '• Fluent English (at least B2 level)\n' +
+          '• Excellent knowledge of Python\n' +
+          '• Professional experience in web development, including experience in front end and JavaScript development. PHP knowledge for the migration of existing applications would be a plus\n' +
+          '• DevOps skills so that you can independently accompany your code from development to production\n' +
+          '• You enjoy contributing your personality to the team and learning from your colleagues\n' +
+          '\n' +
+          'Benefits:\n' +
+          '• Amazing office space located in the heart of Munich\n' +
+          '• A fun, startup-like team culture\n' +
+          '• Work in small agile teams\n' +
+          '• Competitive salary, company-sponsored pension scheme\n' +
+          '• Paid vacation, health insurance and parental leave\n' +
+          '• Flexible working hours, fair home-office arrangement and more than 30 days of vacation possible\n' +
+          '• Steep career opportunities through growth\n' +
+          '• Diverse, international teammates from all over the world\n' +
+          '• Regularly scheduled team and company events\n' +
+          '• Time for self-development, creativity and personal growth at tech talks, hack days and conferences\n' +
+          '• Workation, up to 4 weeks of mobile working from abroad possible\n' +
+          '• Subsidized urban transportation pass and bicycle leasing\n' +
+          '• Fresh fruits, free water, coffee, tea and regular free lunches\n' +
+          '• Paid German language courses\n' +
+          '• Relocation package\n' +
+          '\n' +
+          'If you are interested, do not hesitate to apply for a job and send us your CV using the form below.',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1654943884,
+        job_posted_at_datetime_utc: '2022-06-11T10:38:04.000Z',
+        job_city: 'München',
+        job_state: 'BY',
+        job_country: 'DE',
+        job_latitude: 48.135124,
+        job_longitude: 11.581981,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=YtUaBYWDnAIAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: null,
+        job_offer_expiration_timestamp: null,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: null
+      },
+      {
+        employer_name: 'Tradebyte Software GmbH',
+        employer_logo: 'https://www.tradebyte.com/wp-content/uploads/2021/02/logo-rgb.svg',
+        employer_website: 'http://www.tradebyte.com',
+        employer_company_type: null,
+        job_publisher: 'Jobs At Zalando',
+        job_id: '3Jx5aTstMTgAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: '(Senior) Python Developer (m/f/d)',
+        job_apply_link: 'https://jobs.zalando.com/en/jobs/4467043--senior-python-developer-m-f-d/',
+        job_description: 'THE OPPORTUNITY\n' +
+          '\n' +
+          'At Tradebyte you work hand in hand with the biggest players in e-commerce – from hip fashion brands to big online shops. We offer you an open work structure and an incomparable team spirit. We believe that work and passion are compatible and for that we offer the appropriate surroundings. With continuous growth, we are looking for new colleagues who share our passion for work. Love what you do – do what you love. Become part of Tradebyte, an independent company within the Zalando Group!\n' +
+          '\n' +
+          "WHAT WE'RE LOOKING FOR\n" +
+          '• Around 4 years of extensive experience in designing and implementing software components in Python\n' +
+          '• You are familiar with a wide range of AWS services (especially cloud-native ones) and can reliably operate cloud infrastructures\n' +
+          '• You are very knowledgeable about the development of scalable, highly available microservices\n' +
+          '• You have a firm grip on your engineering basics like Git and Docker\n' +
+          '\n' +
+          'YOUR RESPONSIBILITIES\n' +
+          '• You are responsible for conceptualizing and developing systems that are highly available and scalable\n' +
+          '• You work closely with your team and the product teams to achieve optimal results\n' +
+          '• You will work in an agile, cross-functional, highly aligned, autonomous team\n' +
+          '• Optimizing processes and performance is one of your tasks\n' +
+          '• You are involved in the evaluation and testing of new tech trends\n' +
+          '• You will pass your know-how on to your colleagues\n' +
+          '\n' +
+          'PREFERRED SKILLSETS & QUALIFICATIONS\n' +
+          '• You have experience with Django\n' +
+          '• You are familiar with a diverse range of database technologies such as PostgreSQL, MySQL, Elasticsearch, MongoDB\n' +
+          '• You are experienced in queuing, pub/sub, and event stream mechanisms\n' +
+          '• You have experience with Test-driven Development\n' +
+          '• You convince with your solid knowledge of object-oriented and functional programming\n' +
+          '• You believe in the importance of writing clean code and taking ownership of your work\n' +
+          '• You confidently present new ideas and concepts to audiences that have no technical background\n' +
+          '• You are a team player who enjoys working in an international environment\n' +
+          '• You are business fluent in English and, although you don’t have to speak German, you are willing to learn the language\n' +
+          '\n' +
+          'WHAT YOU CAN EXPECT FROM US\n' +
+          '• You’ll play a decisive role in shaping an agile, fast-growing, international company and be supported by an open-minded working environment\n' +
+          '• Competitive salary package, employee share shop, 40% Zalando shopping discount (30% Zalando Lounge)\n' +
+          '• You’ll be given various learning and development opportunities to enhance your professional development\n' +
+          '• Flexible working hours, home office options\n' +
+          '• 27 vacation days per year that increase up to 30 days, volunteering time off and several sabbatical options after 2 years\n' +
+          '• We’ll help you commute to the office with zero emissions: through a rented company bike or by charging you electric car at our e-charging station\n' +
+          '• Access to additional German or English classes to improve your language skills\n' +
+          '• Visa support for our foreign employees\n' +
+          '• A variety of health offers to support your well-being, as well as free beverages and fruits\n' +
+          '\n' +
+          'INTERESTED?\n' +
+          '\n' +
+          'Looking forward to receive your application!',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1678173446,
+        job_posted_at_datetime_utc: '2023-03-07T07:17:26.000Z',
+        job_city: 'Ansbach',
+        job_state: 'BY',
+        job_country: 'DE',
+        job_latitude: 49.299145,
+        job_longitude: 10.578585,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=3Jx5aTstMTgAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: '2023-04-06T07:17:26.000Z',
+        job_offer_expiration_timestamp: 1680765446,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: 'Senior'
+      },
+      {
+        employer_name: 'GPortal',
+        employer_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFanVwcSee6Htwf5ztQp56voDz_1mUSSyT3aVK&s=0',
+        employer_website: null,
+        employer_company_type: null,
+        job_publisher: 'JOIN',
+        job_id: 'MO6mRGDMQhIAAAAAAAAAAA==',
+        job_employment_type: 'FULLTIME',
+        job_title: '(Senior) Python Developer (m/f/d)',
+        job_apply_link: 'https://join.com/companies/g-portal/7362498-senior-python-developer-m-f-d',
+        job_description: 'As of now wer are looking for an intermediate or Senior Developer with experience in python and backend development to support our teamn in munich or remote as soon as possible.\n' +
+          '\n' +
+          'Tasks\n' +
+          '• As part of our backend team, you are responsible for the continuous optimisation of our system, which mainly deals with the orchestration of our services.\n' +
+          '• Due to our flat hierarchies, you can also contribute to the conception of new projects.\n' +
+          '• The result of your work should be a scalable backend infrastructure, which will result in a continuous improvement of the existing system through the integration of new technologies.\n' +
+          '\n' +
+          'Overall Tech Stack\n' +
+          '• Frontend: CSS (SCSS/ LESS), Javascript, Vue.js/ React.js, Webpack, ES6, NPM (Node Package Manager, Packet Management JS)\n' +
+          '• Backend: PHP7.4, Python 2/3, Twisted, NodeJs\n' +
+          '• Hosting: Self hosted Infrastructure, Kubernetes, Docker,\n' +
+          '• Continuous Integration: Jenkins/Gitlab\n' +
+          '• Versionierung: Git, Bitbucket/Gitlab\n' +
+          '• Other Tools: Confluence, Jira, Slack\n' +
+          '\n' +
+          'Requirements\n' +
+          '\n' +
+          'Your Technical Skills\n' +
+          '• You have multiple years of experience in developing with python and python 3 in general\n' +
+          '• Ideally you have profound knowledge with asyncio\n' +
+          '• You are experienced with networking\n' +
+          '• You have gained profound experience with Windows Server and Linux Environments\n' +
+          '• It would be an advantage if you already had experience in hosting environments\n' +
+          '\n' +
+          'Your Softskills:\n' +
+          '• You are fluent in English. German is a plus\n' +
+          '• You are a team player\n' +
+          '• You have the ambition to deal with new topics and enjoy working on great projects that are not commonplace\n' +
+          '\n' +
+          'Benefits\n' +
+          '\n' +
+          'Remote first culture from anywhere in Germany\n' +
+          '\n' +
+          'Modern and central office in Munich',
+        job_is_remote: false,
+        job_posted_at_timestamp: 1616082062,
+        job_posted_at_datetime_utc: '2021-03-18T15:41:02.000Z',
+        job_city: 'München',
+        job_state: 'BY',
+        job_country: 'DE',
+        job_latitude: 48.135124,
+        job_longitude: 11.581981,
+        job_benefits: null,
+        job_google_link: 'https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+germany&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+germany&htidocid=MO6mRGDMQhIAAAAAAAAAAA%3D%3D',
+        job_offer_expiration_datetime_utc: null,
+        job_offer_expiration_timestamp: null,
+        job_required_experience: [Object],
+        job_required_skills: null,
+        job_required_education: [Object],
+        job_experience_in_place_of_education: false,
+        job_min_salary: null,
+        job_max_salary: null,
+        job_salary_currency: null,
+        job_salary_period: null,
+        job_highlights: {},
+        job_job_title: 'Senior'
+      }
+    ]
+  }
