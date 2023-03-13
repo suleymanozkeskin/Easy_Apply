@@ -6,7 +6,7 @@ const options = {
   url: 'https://jsearch.p.rapidapi.com/search',
   params: {query: 'Python developer in Germany', num_pages: '1'},
   headers: {
-    'X-RapidAPI-Key': rapidApiKey,
+    'X-RapidAPI-Key': rapidApiKey, // get this from config.ts file. In case you do not have it, you can get it from rapidapi.com
     'X-RapidAPI-Host': rapidApiHost,
   },
 };
